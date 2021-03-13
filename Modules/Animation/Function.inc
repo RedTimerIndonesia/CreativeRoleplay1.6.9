@@ -1,0 +1,1 @@
+new Text:txtAnimHelper;
