@@ -6,13 +6,13 @@ class Database
 
 {
 
-    private $host = "51.79.197.132";
+    private $host = "127.0.0.1"; //IP MySQL yang lu punya. misal: 127.0.0.1
 
-    private $user = "server_4993";
+    private $user = "root"; //Username MySQL yang lu punya. misal: root
 
-    private $pass = "njwp6xr7s1";
+    private $pass = ""; //Password MySQL yang lu punya. misal: (Default XAMPP: [kosong])
 
-    private $dbname = "server_4993_lukmanucp";
+    private $dbname = "redtimer"; //Database MySQL yang lu punya. misal: redtimer
 
     public $db;
 

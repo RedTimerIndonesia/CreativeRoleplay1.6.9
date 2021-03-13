@@ -1,4 +1,4 @@
-<?php
+s<?php
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -7,7 +7,7 @@ include('phpmailer/Exception.php');
 include('phpmailer/PHPMailer.php');
 include('phpmailer/SMTP.php');
 
-$email_pengirim = 'azharhrj@redtimer.xyz'; // Isikan dengan email pengirim
+$email_pengirim = 'ucp@redtimer.xyz'; // Isikan dengan email pengirim
 $nama_pengirim = 'Red Timer Roleplay'; // Isikan dengan nama pengirim
 $email_penerima = $email; // Ambil email penerima dari inputan form
 $nama_penerima = $username;
@@ -15,8 +15,8 @@ $subjek = 'RT:RP Reset Password'; // Ambil subjek dari inputan form
 $pesan = "
     <p>To: <br>Username: <b>$username</b><br><br>
         Please click link in the below to reset your password:<br><br>
-        <a href='http://ucp.redtimer.rf.gd/forgot?page=pass&c=$kode'>
-            http://ucp.redtimer.rf.gd/forgot?page=pass&c=$kode
+        <a href='https://ucp.redtimer.xyz/forgot?page=pass&c=$kode'>
+            https://ucp.redtimer.xyz/forgot?page=pass&c=$kode
         </a><br><br>
         Best Regards,<br><br><br><i>RT:RP Management</i><br><br>
         <i style='text-align:center'>Copyright © Red Timer Roleplay 2021.</i>
@@ -27,15 +27,15 @@ $pesan = "
 $mail = new PHPMailer;
 $mail->isSMTP();
 
-$mail->Host = 'mail.redtimer.xyz';
+$mail->Host = 'localhost';
 $mail->Username = $email_pengirim; // Email Pengirim
-$mail->Password = 'azharhrj17042006*&**'; // Isikan dengan Password email pengirim
+$mail->Password = ''; // Isikan dengan Password email pengirim
 $mail->Port = 465;
 $mail->SMTPAuth = true;
 $mail->SMTPSecure = 'ssl';
 // $mail->SMTPDebug = 2; // Aktifkan untuk melakukan debugging
 
-$mail->setFrom('azharhrj@redtimer.xyz', $nama_pengirim);
+$mail->setFrom('ucp@redtimer.xyz', $nama_pengirim);
 $mail->addAddress($email_penerima, $nama_penerima);
 $mail->isHTML(true); // Aktifkan jika isi emailnya berupa html
 

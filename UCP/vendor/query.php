@@ -1,6 +1,6 @@
 <?php
 require "SampQueryAPI.php";
-$query = new SampQueryAPI('51.79.197.132', '7777');
+$query = new SampQueryAPI('139.162.54.63', '7777');
 
 	$aInformation = $query->getInfo();
 	$aServerRules = $query->getRules();

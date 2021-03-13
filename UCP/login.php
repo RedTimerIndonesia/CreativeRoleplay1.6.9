@@ -12,7 +12,7 @@ if (isset($_POST["user"]))
   <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/swal2/sweetalert2.min.css">
   <link rel="stylesheet" href="assets/css/style.css">
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/img/logo-RTRP.png" type="image/png">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-V4K593FW9L"></script>

@@ -873,3 +873,603 @@
 [30-Nov-2020 13:24:24 Asia/Jakarta] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/lacoster/ucp.lacosteroleplay.com/vendor/SampQueryAPI.php on line 61
 [30-Nov-2020 13:24:34 Asia/Jakarta] PHP Notice:  Undefined variable: aDetails in /home/lacoster/ucp.lacosteroleplay.com/vendor/SampQueryAPI.php on line 293
 [30-Nov-2020 13:39:25 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/lacoster/ucp.lacosteroleplay.com/dashboard/index.php on line 6
+[03-Feb-2021 10:38:17 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[03-Feb-2021 10:38:27 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[03-Feb-2021 10:38:27 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[03-Feb-2021 10:39:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 85
+[03-Feb-2021 10:39:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 86
+[03-Feb-2021 10:39:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 87
+[03-Feb-2021 10:39:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 88
+[03-Feb-2021 10:39:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 89
+[03-Feb-2021 10:39:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 90
+[03-Feb-2021 10:39:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 91
+[03-Feb-2021 10:39:24 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[03-Feb-2021 10:39:34 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[03-Feb-2021 10:39:34 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[03-Feb-2021 10:40:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 85
+[03-Feb-2021 10:40:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 86
+[03-Feb-2021 10:40:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 87
+[03-Feb-2021 10:40:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 88
+[03-Feb-2021 10:40:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 89
+[03-Feb-2021 10:40:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 90
+[03-Feb-2021 10:40:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ftrixweb/ucp.redtimer.xyz/dashboard/admin.php on line 91
+[03-Feb-2021 10:40:02 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[03-Feb-2021 10:40:12 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[03-Feb-2021 10:40:12 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[03-Feb-2021 11:00:27 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[03-Feb-2021 11:00:37 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[03-Feb-2021 11:00:37 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[03-Feb-2021 11:39:08 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[03-Feb-2021 11:39:18 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[03-Feb-2021 11:39:18 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[03-Feb-2021 11:39:57 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[03-Feb-2021 11:40:07 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[03-Feb-2021 11:40:07 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[03-Feb-2021 11:40:25 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[03-Feb-2021 11:40:35 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[03-Feb-2021 11:40:35 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[03-Feb-2021 12:16:52 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[03-Feb-2021 12:17:02 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[03-Feb-2021 12:17:02 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[03-Feb-2021 12:23:59 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[03-Feb-2021 12:24:09 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[03-Feb-2021 12:24:09 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 01:14:41 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 01:14:51 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 01:14:51 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 01:14:59 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 01:15:09 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 01:15:09 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 04:17:35 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 04:17:45 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 04:17:45 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 05:55:47 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 05:55:58 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 05:55:58 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 06:21:13 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 06:21:23 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 06:21:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 07:50:32 UTC] PHP Notice:  Undefined index: user in /home/ftrixweb/ucp.redtimer.xyz/dashboard/index.php on line 6
+[04-Feb-2021 07:55:11 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 07:55:21 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 07:55:21 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 09:08:19 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 09:08:29 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 09:08:29 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 11:03:02 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 11:03:12 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 11:03:12 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 11:58:58 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 11:59:08 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 11:59:08 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 12:23:01 UTC] PHP Notice:  Undefined index: user in /home/ftrixweb/ucp.redtimer.xyz/dashboard/index.php on line 6
+[04-Feb-2021 12:23:05 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 12:23:15 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 12:23:15 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 13:13:34 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 13:13:44 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 13:13:44 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 13:15:11 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 13:15:21 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 13:15:21 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 13:15:57 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 13:16:07 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 13:16:07 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[04-Feb-2021 16:18:58 UTC] PHP Notice:  Undefined index: user in /home/ftrixweb/ucp.redtimer.xyz/dashboard/index.php on line 6
+[04-Feb-2021 16:46:31 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[04-Feb-2021 16:46:41 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[04-Feb-2021 16:46:41 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 09:09:07 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 09:09:17 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 09:09:17 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 09:12:22 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 09:12:32 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 09:12:32 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 09:45:21 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 09:45:31 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 09:45:31 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 10:05:03 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 13:01:51 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 13:02:01 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 13:02:01 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:15:23 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:15:33 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:15:33 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:15:42 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:15:52 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:15:52 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:20:28 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:20:38 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:20:38 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:27:01 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:27:11 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:27:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:28:57 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:29:07 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:29:07 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:32:24 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:32:34 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:32:34 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:33:09 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:33:19 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:33:19 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:33:24 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:33:34 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:33:34 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:36:22 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:36:32 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:36:32 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:37:08 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:37:18 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:37:18 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:38:44 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:38:54 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:38:54 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:39:02 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:39:23 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:39:33 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:39:33 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:39:35 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:39:45 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:39:45 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:40:00 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:40:10 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:40:10 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:40:18 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:40:28 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:40:28 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 14:40:39 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 14:40:49 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 14:40:49 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 16:15:49 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 16:15:59 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 16:15:59 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[05-Feb-2021 16:16:09 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[05-Feb-2021 16:16:19 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[05-Feb-2021 16:16:19 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 06:36:15 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 06:36:25 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 06:36:25 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 06:36:43 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 06:36:53 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 06:36:53 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 08:42:27 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 08:42:37 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 08:42:37 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 08:43:54 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 08:44:04 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 08:44:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 09:02:02 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 09:02:05 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 09:02:15 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 09:02:15 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 11:34:53 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 11:35:03 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 11:35:03 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 11:35:04 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 11:35:15 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 11:35:15 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 11:36:50 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 11:36:52 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 11:37:02 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 11:37:02 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 11:37:47 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 11:37:57 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 11:37:57 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 11:44:17 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 11:44:27 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 11:44:27 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 11:44:40 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 11:44:50 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 11:44:50 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 18:16:59 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 18:17:09 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 18:17:09 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[06-Feb-2021 18:17:42 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[06-Feb-2021 18:17:52 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[06-Feb-2021 18:17:52 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 01:36:42 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 01:36:52 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 01:36:52 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 01:37:04 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 01:37:14 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 01:37:14 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 01:40:25 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 01:40:35 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 01:40:35 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 01:58:29 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 01:58:39 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 01:58:39 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 01:58:54 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 01:59:04 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 01:59:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 05:49:54 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 05:50:04 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 05:50:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 05:50:39 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 05:50:49 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 05:50:49 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 05:51:24 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 05:51:34 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 05:51:34 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 05:52:46 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 05:52:56 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 05:52:56 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[07-Feb-2021 16:22:20 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[07-Feb-2021 16:22:30 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[07-Feb-2021 16:22:30 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 01:21:16 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 01:21:26 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 01:21:26 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 01:28:25 UTC] PHP Notice:  Undefined index: user in /home/ftrixweb/ucp.redtimer.xyz/dashboard/index.php on line 6
+[08-Feb-2021 02:28:20 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 02:28:30 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 02:28:30 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 03:47:01 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 03:47:11 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 03:47:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 04:18:31 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 04:18:41 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 04:18:41 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 05:23:52 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 05:24:02 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 05:24:02 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 07:59:04 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 07:59:14 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 07:59:14 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 13:34:37 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 13:34:47 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 13:34:47 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 14:11:07 UTC] PHP Notice:  Undefined index: user in /home/ftrixweb/ucp.redtimer.xyz/dashboard/index.php on line 6
+[08-Feb-2021 14:17:47 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 14:17:57 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 14:17:57 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 14:18:08 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 14:18:18 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 14:18:18 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 14:18:31 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 14:18:41 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 14:18:41 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 14:48:10 UTC] PHP Notice:  Undefined index: user in /home/ftrixweb/ucp.redtimer.xyz/dashboard/index.php on line 6
+[08-Feb-2021 18:31:32 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 18:31:42 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 18:31:42 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 18:31:48 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 18:31:58 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 18:31:58 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 18:32:44 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 18:32:54 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 18:32:54 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[08-Feb-2021 18:33:32 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[08-Feb-2021 18:33:42 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[08-Feb-2021 18:33:42 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[09-Feb-2021 15:48:16 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[09-Feb-2021 15:48:26 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[09-Feb-2021 15:48:26 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[09-Feb-2021 15:49:05 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[09-Feb-2021 15:49:15 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[09-Feb-2021 15:49:15 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[09-Feb-2021 15:49:17 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[09-Feb-2021 15:49:27 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[09-Feb-2021 15:49:27 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[09-Feb-2021 15:49:29 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[09-Feb-2021 15:49:39 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[09-Feb-2021 15:49:39 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[09-Feb-2021 15:49:41 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[09-Feb-2021 15:49:51 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[09-Feb-2021 15:49:51 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[10-Feb-2021 02:35:02 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[10-Feb-2021 02:35:12 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[10-Feb-2021 02:35:12 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[10-Feb-2021 07:35:42 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[10-Feb-2021 07:35:52 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[10-Feb-2021 07:35:52 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[10-Feb-2021 07:36:49 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[10-Feb-2021 07:36:59 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[10-Feb-2021 07:36:59 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[10-Feb-2021 07:37:17 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[10-Feb-2021 07:37:27 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[10-Feb-2021 07:37:27 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[10-Feb-2021 07:53:25 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[10-Feb-2021 07:53:35 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[10-Feb-2021 07:53:35 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[11-Feb-2021 00:24:54 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[11-Feb-2021 00:25:04 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[11-Feb-2021 00:25:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[11-Feb-2021 10:39:25 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[11-Feb-2021 10:39:35 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[11-Feb-2021 10:39:35 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[11-Feb-2021 10:40:00 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[11-Feb-2021 10:40:10 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[11-Feb-2021 10:40:10 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[12-Feb-2021 02:12:27 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[12-Feb-2021 02:12:37 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[12-Feb-2021 02:12:37 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[12-Feb-2021 05:53:11 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[12-Feb-2021 05:53:21 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[12-Feb-2021 05:53:21 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[12-Feb-2021 05:53:56 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[12-Feb-2021 05:54:06 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[12-Feb-2021 05:54:06 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[12-Feb-2021 06:19:28 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[12-Feb-2021 06:19:38 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[12-Feb-2021 06:19:38 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[12-Feb-2021 06:28:17 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[12-Feb-2021 06:28:27 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[12-Feb-2021 06:28:27 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[12-Feb-2021 12:29:52 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[12-Feb-2021 12:30:02 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[12-Feb-2021 12:30:02 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[13-Feb-2021 09:57:34 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[13-Feb-2021 09:57:44 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[13-Feb-2021 09:57:44 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[13-Feb-2021 14:59:27 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[13-Feb-2021 14:59:38 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[13-Feb-2021 14:59:38 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[13-Feb-2021 15:28:21 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[13-Feb-2021 15:28:31 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[13-Feb-2021 15:28:31 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[13-Feb-2021 18:25:24 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[13-Feb-2021 18:25:34 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[13-Feb-2021 18:25:34 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[13-Feb-2021 18:32:10 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[13-Feb-2021 18:32:20 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[13-Feb-2021 18:32:20 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[14-Feb-2021 06:53:13 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[14-Feb-2021 06:53:16 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[14-Feb-2021 06:53:23 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[14-Feb-2021 06:53:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[14-Feb-2021 06:53:26 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[14-Feb-2021 06:53:26 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[14-Feb-2021 06:54:01 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[14-Feb-2021 06:54:11 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[14-Feb-2021 06:54:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[14-Feb-2021 06:54:40 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[14-Feb-2021 06:54:50 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[14-Feb-2021 06:54:50 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[14-Feb-2021 09:26:12 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[14-Feb-2021 09:26:22 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[14-Feb-2021 09:26:22 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 00:35:53 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 00:36:03 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 00:36:03 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 01:02:26 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 01:02:36 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 01:02:36 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 01:57:53 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 01:58:03 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 01:58:03 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 01:58:40 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 01:58:50 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 01:58:50 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 01:59:40 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 01:59:50 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 01:59:50 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 02:00:05 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 02:00:15 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 02:00:15 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 02:00:17 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 02:00:27 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 02:00:27 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 02:00:29 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 02:00:39 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 02:00:39 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 02:00:41 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 02:00:51 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 02:00:51 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 03:30:27 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 03:30:37 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 03:30:37 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 06:48:08 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 06:48:18 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 06:48:18 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 06:48:34 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 06:48:44 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 06:48:44 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 06:48:57 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 06:49:07 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 06:49:07 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 10:38:32 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 10:38:42 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 10:38:42 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 13:13:50 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 13:14:00 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 13:14:00 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 13:15:03 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 13:15:13 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 13:15:13 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 13:26:11 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 13:26:21 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 13:26:21 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[15-Feb-2021 13:26:38 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[15-Feb-2021 13:26:48 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[15-Feb-2021 13:26:48 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 06:12:50 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 06:13:06 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 06:13:06 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 07:23:16 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 07:23:26 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 07:23:26 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 07:24:34 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 07:24:44 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 07:24:44 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 07:47:21 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 07:47:31 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 07:47:31 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 07:51:32 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 07:51:42 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 07:51:42 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 07:52:05 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 07:52:15 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 07:52:15 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 07:52:29 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 07:52:39 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 07:52:39 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 07:52:41 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 07:52:51 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 07:52:51 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 07:52:53 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 07:53:03 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 07:53:03 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 12:08:02 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 12:08:12 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 12:08:12 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 12:08:35 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 12:08:45 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 12:08:45 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 12:12:42 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 12:12:52 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 12:12:52 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 18:57:13 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 18:57:23 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 18:57:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 18:58:33 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 18:58:43 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 18:58:43 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 18:58:45 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 18:58:55 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 18:58:55 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 18:58:57 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 18:59:07 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 18:59:07 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[16-Feb-2021 18:59:09 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[16-Feb-2021 18:59:19 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[16-Feb-2021 18:59:19 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[17-Feb-2021 01:19:06 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[17-Feb-2021 01:19:16 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[17-Feb-2021 01:19:16 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[17-Feb-2021 01:19:28 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[17-Feb-2021 01:19:38 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[17-Feb-2021 01:19:38 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[17-Feb-2021 01:19:40 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[17-Feb-2021 01:19:50 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[17-Feb-2021 01:19:50 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[17-Feb-2021 03:07:55 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[17-Feb-2021 03:08:05 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[17-Feb-2021 03:08:05 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[18-Feb-2021 02:50:25 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[18-Feb-2021 02:50:35 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[18-Feb-2021 02:50:35 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[18-Feb-2021 02:50:48 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[18-Feb-2021 02:50:58 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[18-Feb-2021 02:50:58 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[18-Feb-2021 11:50:02 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[18-Feb-2021 11:50:12 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[18-Feb-2021 11:50:12 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[18-Feb-2021 11:51:10 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[18-Feb-2021 11:51:20 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[18-Feb-2021 11:51:20 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[18-Feb-2021 15:21:22 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[18-Feb-2021 15:21:32 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[18-Feb-2021 15:21:32 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[18-Feb-2021 15:23:00 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[18-Feb-2021 15:23:10 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[18-Feb-2021 15:23:10 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[19-Feb-2021 02:32:45 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[19-Feb-2021 02:32:55 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[19-Feb-2021 02:32:55 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[19-Feb-2021 06:55:52 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[19-Feb-2021 06:56:02 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[19-Feb-2021 06:56:02 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[19-Feb-2021 07:21:05 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[19-Feb-2021 07:21:15 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[19-Feb-2021 07:21:15 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 17:05:07 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 17:05:17 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 17:05:17 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:50:13 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:50:23 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:50:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:50:53 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:51:03 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:51:03 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:51:05 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:51:15 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:51:15 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:51:17 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:51:27 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:51:27 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:51:29 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:51:39 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:51:39 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:51:41 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:51:51 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:51:51 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:51:53 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:52:04 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:52:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:52:06 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:52:16 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:52:16 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:52:18 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:52:28 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:52:28 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 18:52:30 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 18:52:40 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 18:52:40 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 19:45:35 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 19:45:45 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 19:45:45 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[20-Feb-2021 19:46:04 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[20-Feb-2021 19:46:14 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[20-Feb-2021 19:46:14 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[21-Feb-2021 08:52:08 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[21-Feb-2021 08:52:18 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[21-Feb-2021 08:52:18 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[21-Feb-2021 11:04:26 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[21-Feb-2021 11:04:36 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[21-Feb-2021 11:04:36 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[21-Feb-2021 11:06:12 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[21-Feb-2021 11:06:22 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[21-Feb-2021 11:06:22 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[21-Feb-2021 11:06:48 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[21-Feb-2021 11:06:58 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[21-Feb-2021 11:06:58 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[21-Feb-2021 14:37:26 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[21-Feb-2021 14:37:36 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[21-Feb-2021 14:37:36 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[21-Feb-2021 23:33:33 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[21-Feb-2021 23:33:43 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[21-Feb-2021 23:33:43 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[21-Feb-2021 23:35:45 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[21-Feb-2021 23:35:55 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[21-Feb-2021 23:35:55 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[21-Feb-2021 23:39:04 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[21-Feb-2021 23:39:14 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[21-Feb-2021 23:39:14 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[22-Feb-2021 09:08:44 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[22-Feb-2021 09:08:54 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[22-Feb-2021 09:08:54 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[22-Feb-2021 09:09:15 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[22-Feb-2021 09:09:25 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[22-Feb-2021 09:09:25 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[22-Feb-2021 09:09:33 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[22-Feb-2021 09:09:43 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[22-Feb-2021 09:09:43 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[22-Feb-2021 09:19:41 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[22-Feb-2021 09:19:51 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[22-Feb-2021 09:19:51 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[23-Feb-2021 06:56:01 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[23-Feb-2021 06:56:11 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[23-Feb-2021 06:56:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[23-Feb-2021 06:56:26 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[23-Feb-2021 06:56:36 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[23-Feb-2021 06:56:36 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[23-Feb-2021 06:56:38 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[23-Feb-2021 06:56:48 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[23-Feb-2021 06:56:48 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[23-Feb-2021 15:10:55 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[23-Feb-2021 15:11:05 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[23-Feb-2021 15:11:05 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[23-Feb-2021 15:16:18 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[23-Feb-2021 15:16:28 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[23-Feb-2021 15:16:28 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[23-Feb-2021 15:18:05 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[23-Feb-2021 15:18:15 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[23-Feb-2021 15:18:15 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[23-Feb-2021 15:18:43 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[23-Feb-2021 15:18:53 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[23-Feb-2021 15:18:53 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9
+[23-Feb-2021 15:19:00 UTC] PHP Notice:  fwrite(): send of 15 bytes failed with errno=1 Operation not permitted in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 61
+[23-Feb-2021 15:19:10 UTC] PHP Notice:  Undefined variable: aDetails in /home/ftrixweb/ucp.redtimer.xyz/vendor/SampQueryAPI.php on line 293
+[23-Feb-2021 15:19:10 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/ftrixweb/ucp.redtimer.xyz/vendor/query.php on line 9

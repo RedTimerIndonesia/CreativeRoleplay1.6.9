@@ -49,7 +49,7 @@ $data = $conn->fetchPlayer($_SESSION["user"]);
               ?>
               <tr>
                 <td><?= $data["id"]; ?></td>
-                <td><?php if ($data["vip"] == 1) echo "VIP Reguler"; elseif ($data["vip"] == 2) echo "VIP Premium"; elseif ($data["vip"] == 3) echo "VIP Platinum(Lifetime)"; elseif ($data["gold"] != 0) echo "Gold (".$data["gold"].")"; ?></td>
+                <td><?php if ($data["vip"] == 1) echo "Reguler"; elseif ($data["vip"] == 2) echo "Premium"; elseif ($data["vip"] == 3) echo "VIP Player"; elseif ($data["gold"] != 0) echo "Gold (".$data["gold"].")"; ?></td>
                 <td><?= $data["bukti"]; ?></td>
                 <td><?php if ($data["status"] == 0) echo "<span class='badge badge-warning'>Pending</span>"; elseif($data["status"] == 1 || $data["status"] == 3) echo "<span class'badge bg-success'>Accepted</span>"; elseif ($data["status"] == 2) echo "<span class='badge badge-danger'>Denied</span>"; ?></td>
               </tr>
@@ -78,7 +78,7 @@ $data = $conn->fetchPlayer($_SESSION["user"]);
               ?>
               <tr>
                 <td><?= $gData["id"]; ?></td>
-                <td><?php if ($gData["vip"] == 1) echo "VIP Reguler"; elseif ($gData["vip"] == 2) echo "VIP Premium"; elseif ($gData["vip"] == 3) echo "VIP Platinum(Lifetime)"; elseif ($gData["gold"] != 0) echo "Gold (".$gData["gold"].")"; ?></td>
+                <td><?php if ($gData["vip"] == 1) echo "Reguler"; elseif ($gData["vip"] == 2) echo "Premium"; elseif ($gData["vip"] == 3) echo "VIP Player"; elseif ($gData["gold"] != 0) echo "Gold (".$gData["gold"].")"; ?></td>
                 <td><?php if ($gData["duration"] != 0) echo $gData["duration"]." Days"; ?></td>
                 <td><?= $gData["code"]; ?></td>
                 <td><?php if ($gData["status"] == 1 && $gData["claim"] == 0) echo "<span class'badge bg-success'>Not claimed</span>"; elseif ($gData["claim"] == 1) echo "<span class='badge badge-warning'>Claimed by ". $gData["donature"] ."</span>"; ?></td>
@@ -114,9 +114,9 @@ $data = $conn->fetchPlayer($_SESSION["user"]);
               <label for="type">Vip Type</label>
               <select name="type" id="type" class="custom-select">
                 <option selected>Pilih ...</option>
-                <option value="1">VIP Regular (Rp 50.000 / bulan)</option>
-                <option value="2">VIP Premium (Rp 70.000 / bulan)</option>
-                <option value="3">VIP Platinum(Lifetime) (Rp 100.000)</option>
+                <option value="1">Regular (Rp 30.000 / bulan)</option>
+                <option value="2">Premium (Rp 50.000 / bulan)</option>
+                <option value="3">VIP Player (Rp 80.000 / bulan)</option>
               </select>
             </div>
             <div class="form-group">
@@ -126,17 +126,18 @@ $data = $conn->fetchPlayer($_SESSION["user"]);
                 <option value="250">250 Gold (Rp 15.000)</option>
                 <option value="525">525 Gold (Rp 25.000)</option>
                 <option value="1125">1125 Gold (Rp 50.000)</option>
-                <option value="2250">2250 Gold (Rp 100.000)</option>
+                <option value="2150">2250 Gold (Rp 100.000)</option>
+                <option value="3125">3125 Gold (Rp 150.000)</option>
+                <option value="4200">4200 Gold (Rp 200.000)</option>
               </select>
             </div>
             <div class="form-group">
               <label for="time">Durasi</label>
               <select name="time" id="time" class="custom-select">
                 <option selected>Pilih ...</option>
-                <option value="30">1 Bulan</option>
+                <option value="31">1 Bulan</option>
                 <option value="90">3 Bulan</option>
                 <option value="180">6 Bulan</option>
-                <option value="99999">Lifetime</option>
               </select>
             </div>
             <label for="money">Jumlah Uang</label>
@@ -152,7 +153,8 @@ $data = $conn->fetchPlayer($_SESSION["user"]);
                 <option value="1">Gopay (087782324804) A/n. Muhammad Misbah Guntur</option>
                 <option value="2">DANA (087782324804) A/n. Muhammad Misbah Guntur</option>
                 <option value="3">Ovo (087782324804) A/n. Muhammad Misbah Guntur</option>
-                <option value="4">Bank BNI(PM Discord/WA) A/n. Muhammad Misbah Guntur</option>
+                <option value="4">DANA (087770908000) A/n. Fakhri A. Permana</option>
+                <option value="5">Bank BNI(PM) A/n. Muhammad Misbah Guntur</option>
               </select>
             </div>
             <div class="form-group">
@@ -161,7 +163,7 @@ $data = $conn->fetchPlayer($_SESSION["user"]);
             </div>
             <div class="form-group">
               <label for="note">Catatan</label>
-              <textarea name="note" id="note" class="form-control" placeholder="Kalo ga perlu gausah diisi ya..."></textarea>
+              <textarea name="note" id="note" class="form-control" placeholder="Kalo gak penting jangan diisi. Apa lagi kalo lu isinya 'Mohon dipercepat ya :)', gua benci banget ke orang yang gak sabaran."></textarea>
             </div>
           </div>
           <div class="modal-footer">
