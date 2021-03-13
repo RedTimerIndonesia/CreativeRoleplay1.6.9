@@ -18,5 +18,5 @@ Change Notes 1.6.9u2:
 3. Bisa compile menggunakan VSCode dan pawno bawaan
 4. Jika menggunakan VSCode jangan lupa install Pawn Tools(Southclaws) di VSCode kalian.
 5. Silahkan buka Phpmyadmin di-hosting web kalian atau localhost kalian
-6. Buat database baru dan import file `redtimer.sql` dan scrol kebawah klik tombol kirim
+6. Buat database baru dan import file `redtimer.sql` dan scrol kebawah klik tombol kirim | Note: Letak file ini ada di folder `MySQL`
 7. Selesai! jika ada pertanyaan tanyakan saja pada discord saya AzharHrj#7230
