@@ -84,29 +84,6 @@ CREATE TABLE `banneds` (
 --
 
 INSERT INTO `banneds` (`id`, `name`, `ip`, `longip`, `ban_expire`, `ban_date`, `last_activity_timestamp`, `admin`, `reason`) VALUES
-(1, 'Fabio_Vlendricka', '182.2.168.5', 0, 0, 1610380947, 0, 'Jakkii', 'Cheater.'),
-(2, 'Lucas_Iglesias', '103.156.141.140', 0, 0, 1610383416, 1610383593, 'az', 'Cheater[Reported]'),
-(5, 'Maria_Ozawa', '112.215.151.23', 0, 0, 1610534337, 1611109314, 'Jakkii', 'Cheater.'),
-(6, 'Made_Hilton', '125.161.131.21', 0, 0, 1610550412, 0, 'Fakhri', 'CHEATER (AZ) JELASIN DI FORUM'),
-(9, 'Daniel_Dexter', '103.201.129.162', 0, 0, 1610721902, 0, 'FakhriYT', 'cheater'),
-(10, 'Oman_Dabston', '103.201.129.18', 0, 0, 1610722325, 0, 'az', 'CHEATER NGENTOT'),
-(11, 'Qwantez_Jameel', '207.148.91.158', 0, 0, 1610722344, 1610722381, 'FakhriYT', 'cheater'),
-(12, 'Farhan_Abdullah', '180.242.116.199', 0, 0, 1610723281, 0, 'FakhriYT', 'cheater'),
-(13, 'Javier_Orscino', '116.206.8.37', 0, 1610816535, 1610730135, 0, 'FakhriYT', 'not here to rp'),
-(14, 'Jekeil_McKenzie', '139.228.125.76', 0, 1610816546, 1610730146, 0, 'FakhriYT', 'not here to rp'),
-(15, 'Andre_Marpaung', '116.206.8.51', 0, 0, 1610731322, 0, 'FakhriYT', 'CHEATER'),
-(16, 'Andre_Marpaung', '116.206.8.51', 0, 0, 1610731333, 0, 'az', 's0beit'),
-(17, 'Shawn_Sheep', '36.79.251.55', 0, 0, 1610784255, 0, 'Jakkii', 'Not Here to RP.'),
-(18, 'Abay_Hacker', '116.206.8.58', 0, 0, 1610787628, 0, 'FakhriYT', 'cheater/bug abuse'),
-(19, 'Tokio_Mukiri', '121.85.5.118', 0, 0, 1610787655, 0, 'FakhriYT', 'cheater/bug abuse'),
-(20, 'RTRP_KONTOL', '180.253.76.30', 0, 0, 1610788212, 0, 'FakhriYT', 'Menghina Server'),
-(21, 'Idris_Amirov', '116.206.8.38', 0, 0, 1610799933, 0, 'Jakkii', 'Cheater sampah.'),
-(22, 'Charles_Mariano', '118.41.180.133', 0, 0, 1610800200, 0, 'Jakkii', 'Ngapain pakai VPN?'),
-(26, 'Witerhod_McCouter', '36.82.134.28', 0, 0, 1611256940, 0, 'az', 'Cheater Ngentot'),
-(30, 'Ichika_Kiara', '61.94.124.125', 0, 0, 1611941793, 0, 'Evolution', 'CHEAT LAKNAT'),
-(32, 'Arturo_Radislav', '255.255.255.255', 0, 1613090581, 1613004181, 0, 'HE4NG', 'Respect To ADMIN '),
-(33, 'Anak_Setan', '255.255.255.255', 0, 0, 1614098064, 0, 'FakhriYT', 'Not here to RP.'),
-(34, 'GAROX_Mania', '255.255.255.255', 0, 0, 1614098094, 0, 'FakhriYT', 'Not here to RP.');
 
 -- --------------------------------------------------------
 
@@ -329,10 +306,6 @@ CREATE TABLE `familys` (
 --
 
 INSERT INTO `familys` (`ID`, `name`, `leader`, `motd`, `color`, `extposx`, `extposy`, `extposz`, `extposa`, `intposx`, `intposy`, `intposz`, `intposa`, `fint`, `rankname1`, `rankname2`, `rankname3`, `rankname4`, `rankname5`, `rankname6`, `Weapon1`, `Ammo1`, `Weapon2`, `Ammo2`, `Weapon3`, `Ammo3`, `Weapon4`, `Ammo4`, `Weapon5`, `Ammo5`, `Weapon6`, `Ammo6`, `Weapon7`, `Ammo7`, `Weapon8`, `Ammo8`, `Weapon9`, `Ammo9`, `Weapon10`, `Ammo10`, `safex`, `safey`, `safez`, `money`, `marijuana`, `component`, `material`) VALUES
-(1, '168th_Ganton_Blocks_Crips', 'James_Washington', 'None', 0, 2455.06, -1707.67, 13.6187, 171.988, 302.112, 1276.2, 1080.95, 187.318, 1, 'Outsider', 'Associate', 'Soldier', 'Advisor', 'UnderBoss', 'GodFather', 1, 1, 0, 0, 1, 1, 5, 1, 1, 1, 5, 1, 5, 1, 41, 1800, 1, 1, 1, 1, 270.264, 1265.74, 1080.95, 0, 0, 0, 0),
-(2, 'The_Rebels', 'Ozora_Farhan', 'None', 0, 1154.54, -1181.05, 32.8187, 92.1858, 326.068, 1854.62, 268.976, 182.45, 1, 'Outsider', 'Associate', 'Soldier', 'Advisor', 'UnderBoss', 'GodFather', 1, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 325.047, 1843.4, 268.302, 0, 0, 0, 1),
-(3, 'The_Blue_MC', 'Bimo_Hermansyah', 'None', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'Outsider', 'Associate', 'Soldier', 'Advisor', 'UnderBoss', 'GodFather', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
-(4, 'La_Costra_Mafia', 'Arturo_Radislav', 'None', 0, 1303.1, -792.337, 88.305, 232.138, 1224.17, -749.309, 1085.73, 268.383, 0, 'Outsider', 'Associate', 'Soldier', 'Advisor', 'UnderBoss', 'GodFather', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1275.92, -739.807, 1096.52, 200, 1957, 0, 1000);
 
 -- --------------------------------------------------------
 
