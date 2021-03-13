@@ -17,4 +17,6 @@ Change Notes 1.6.9u2:
 2. Jangan copy main gamemodes `CreativeRPLS.pwn` kedalam folder gamemodes, karena system gamemode ini adalah Modularisasi
 3. Bisa compile menggunakan VSCode dan pawno bawaan
 4. Jika menggunakan VSCode jangan lupa install Pawn Tools(Southclaws) di VSCode kalian.
-5. Selesai! jika ada pertanyaan tanyakan saja pada discord saya AzharHrj#7230
+5. Silahkan buka Phpmyadmin di-hosting web kalian atau localhost kalian
+6. Buat database baru dan import file `redtimer.sql` dan scrol kebawah klik tombol kirim | Note: Letak file ini ada di folder `MySQL`
+7. Selesai! jika ada pertanyaan tanyakan saja pada discord saya AzharHrj#7230
